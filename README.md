@@ -49,21 +49,22 @@ The app is made with **Streamlit** and uses a Hugging Face model as the backend.
    streamlit run streamlit_app.py
    ``` 
 
+---
 
-##Example Queries
+## Example Queries
 
 	•	How do I add teleport locomotion in Unity VR?
 	•	How do I set up multiplayer in Unreal VR?
 	•	Which shader works best for AR occlusion?
 
 
-##Notes
+## Notes
 
 	•	This is an MVP version, so the outputs are not always perfect.
 	•	In the future, I would like to add voice input and proper web search grounding.
 
 
-##Author
+## Author
 
      This project was developed by Mitul Chitkara as part of my coursework.
      I set up Streamlit, connected it to Hugging Face models, and made the app show structured results.
